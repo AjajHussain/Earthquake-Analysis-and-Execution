@@ -1,4 +1,4 @@
-# Earthquake-Analysis-and-Execution
+# HERCULES STRUCTURAL SYSTEMS PVT. LTD.
 Seismic Data Collection: Seismic data is collected from various sources such as seismographs, accelerometers, and other monitoring devices. This data includes the magnitude, location, depth, and duration of the earthquake.
 Magnitude Determination: One of the first steps is determining the magnitude of the earthquake. Magnitude scales like the Richter scale or the moment magnitude scale (Mw) are commonly used for this purpose. Magnitude indicates the energy released by the earthquake.
 
