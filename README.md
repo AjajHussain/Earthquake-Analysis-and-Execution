@@ -1,19 +1,36 @@
 # HERCULES STRUCTURAL SYSTEMS PVT. LTD.
-Seismic Data Collection: Seismic data is collected from various sources such as seismographs, accelerometers, and other monitoring devices. This data includes the magnitude, location, depth, and duration of the earthquake.
-Magnitude Determination: One of the first steps is determining the magnitude of the earthquake. Magnitude scales like the Richter scale or the moment magnitude scale (Mw) are commonly used for this purpose. Magnitude indicates the energy released by the earthquake.
+HERCULES has a distinguished history since its inception in Australia in 1972.
+Hercules Engineering (SEA) Sdn Bhd, Malaysia was established in 1992 and now
+has hundreds of satisfied customers in Malaysia, India, Singapore, Sri Lanka,
+Thailand, Philippines, Indonesia, Cambodia and Vietnam. It has significant
+presence in these markets directly or through its associates and its products as
+well as services have been used in thousands of projects worldwide.
 
-Epicenter Location: Determining the epicenter, the point on the Earth's surface directly above where the earthquake originated, is crucial. This is usually done using triangulation methods based on seismic wave arrival times at multiple monitoring stations.
+Hercules Structural Systems Pvt. Ltd., an ISO 9001:2008 company, is an
+associate of Hercules Engineering (SEA) Sdn Bhd, Malaysia and is empanelled by
+the Ministry of Shipping, Road Transport & Highways (MORTH), Government of
+India, for supply of Bridge Expansion Joint system, Bridge Bearing and as a
+specialist Consultant for Repair and Rehabilitation of Bridges.
 
-Depth Analysis: Understanding the depth at which the earthquake occurred provides valuable information about the type of fault and potential for surface rupture.
+Experience of more than 35 years in the field of Bridge and building
+Expansion Joints, Bridge Bearings, Heavy Lifting, Incremental & Lateral
+Launching, Structural Repairs & Rehabilitation of old bridges and
+buildings.
 
-Fault Analysis: Earthquakes occur due to the movement of tectonic plates along faults. Analyzing the fault involved helps in understanding the mechanics of the earthquake and predicting future seismic activity in the region.
+Group is one of the biggest companies involved in the sphere of Bridge
+Engineering, with operations spread across Asia-Pacific, having rich
+experience of executing hundred of projects across Asia-Pacific
+successfully.
 
-Seismic Waves Analysis: The characteristics of seismic waves (P-waves, S-waves, surface waves) can provide insights into the earthquake's intensity, propagation, and potential for causing damage.
+The only company in India that manufactures, markets and installs its
+own products without engaging intermediaries, so directly responsible
+for its products, installation and warranty.
 
-Shake Maps and Intensity Analysis: Shake maps are generated to show the distribution of ground shaking intensity across affected areas. Intensity scales like the Modified Mercalli Intensity (MMI) scale are often used to quantify the level of shaking experienced by people and structures.
+Successfully completed the Repairing, Strengthening and Rehabilitation
+of many prestigious Bridge Projects and given consultancy services for a
+number of repair and rehabilitation projects.
 
-Structural Vulnerability Assessment: Analyzing the vulnerability of structures in the affected area helps in assessing potential damage and estimating the extent of casualties and economic losses.
-
-Tsunami Risk Assessment: For earthquakes occurring under the ocean, assessing the risk of tsunami generation is crucial for coastal communities. This involves modeling the propagation of tsunami waves and estimating their potential impact.
-
-Post-Earthquake Monitoring: Continuous monitoring of aftershocks and ground deformation helps in understanding the aftermath of the earthquake and identifying areas at risk of further seismic activity.
+Being its people its biggest strength, Hercules’s teams have executed
+credible projects and have made an enviable past record of project
+execution, in the field of Bridge Repairs, Bridge and Building Expansion
+Joints.
